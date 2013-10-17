@@ -4,7 +4,7 @@ sEMG
 trial and error at toyonaka
 
 
-## 1013-10-17
+## 2013-10-17
 
 I still try to choose what to do with surface electromyography, so nothing to bother about in this repo.
 
