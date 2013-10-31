@@ -9,6 +9,7 @@ My work is about `Surface Electromyography` (sEMG).
 
 - electrodes sticking on the skin measure microvolt signals of skeletal muscles over time
 - with a muscle contraction a signal increase is measured
+![picture of using biofeedback](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Biofeedback_en.svg/500px-Biofeedback_en.svg.png)
 
 ## Step-Tracking Wrist Movements
 
@@ -21,3 +22,9 @@ My work is about `Surface Electromyography` (sEMG).
 - the sEMG signal increase is measured before the movement
 - the idea is to detect the beginning of motion with template matching
 - the template is a cubic function 
+
+## Cool sEMG Stuff
+
+- Iron Man Glow Glove [Video](http://www.youtube.com/watch?v=kq9dfK_xM6o)
+- [Amuse-Me](http://cec.sonus.ca/econtact/14_2/cescon_amuseme.html) is a Portable device to transform electromyographic signals into music by Corrado Cescon [Video](http://www.youtube.com/watch?v=vcMpAqqt5OE)
+- Muscle Mouse Game [Video](http://www.youtube.com/watch?v=QKwwJrdpwCM&feature=player_embedded)
