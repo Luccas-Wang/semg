@@ -1,12 +1,11 @@
-Protocol of Work in Takemura Laboratory of Osaka University
-
-% Claudia Sichting
+## Protocol of Work in Takemura Laboratory of Osaka University
+ by Claudia Sichting
 
 # 2013-10-31
 
 # 2013-10-30
 
-If got a goal!
+I've got a goal!
 
 1.  implement \`EstOp\` in matlab
 
