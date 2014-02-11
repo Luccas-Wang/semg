@@ -1,9 +1,10 @@
 # sEMG
 
 
-This is a repository for notes about my work in Osaka.
+This is a repository for notes about about detecting onset time `Surface Electromyography`(sEMG) work in Osaka.
 
-My work is about `Surface Electromyography` (sEMG).
+![work in progress](2014-01-29)
+![work in progress](2014-02-10)
 
 ## Surface Electromyography sEMG
 
@@ -15,7 +16,6 @@ My work is about `Surface Electromyography` (sEMG).
 
 - wrist movements from point-to-point
 - muscles involved: ulnar flexor muscle of right arm (flexor carpi ulnaris )
-![medical picture of arm muscle positions](http://medimages.hostzi.com/album2/ARTO%20SUPERIORE/Spalla/muscoli%20avambraccio%20gomito.jpg)
 
 ## Real Time Onset Detection
 
