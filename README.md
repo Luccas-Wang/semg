@@ -3,9 +3,6 @@
 
 This is a repository for notes about about detecting onset time `Surface Electromyography`(sEMG) work in Osaka.
 
-![work in progress](2014-01-29)
-![work in progress](2014-02-10)
-
 ## Surface Electromyography sEMG
 
 - electrodes sticking on the skin measure microvolt signals of skeletal muscles over time
